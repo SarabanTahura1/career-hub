@@ -1,0 +1,113 @@
+ [
+      {
+        "id": 1,
+        "company_logo": "../src/assets/All Images/CareerHub.png",
+        "job_title": "Web Developer",
+        "company_name": "Tech Solutions Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $120,000",
+        "job_description": "Tech Solutions Inc. is seeking a skilled Web Developer to join our team.",
+        "job_responsibility": "Develop and maintain web applications using HTML, CSS, and JavaScript.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in web development.",
+        "contact_information": {
+          "phone": "+1 555-1234",
+          "email": "jobs@techsolutions.com"
+        }
+      },
+      {
+        "id": 2,
+        "company_logo": "../src/assets/All Images/google-1-1 1-1.png",
+        "job_title": "Data Scientist",
+        "company_name": "Innovative Analytics LLC",
+        "remote_or_onsite": "Remote",
+        "location": "Any",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $150,000",
+        "job_description": "Innovative Analytics LLC is seeking an experienced Data Scientist to join our team.",
+        "job_responsibility": "Analyze large datasets, build predictive models, and communicate insights to stakeholders.",
+        "educational_requirements": "Master's degree in Data Science or related field.",
+        "experiences": "5+ years of experience in data analysis and modeling.",
+        "contact_information": {
+          "phone": "+1 555-5678",
+          "email": "jobs@innovativeanalytics.com"
+        }
+      },
+      {
+        "id": 3,
+        "company_logo": "../src/assets/All Images/netflix-4 1.png",
+        "job_title": "Marketing Coordinator",
+        "company_name": "Growth Marketing Co.",
+        "remote_or_onsite": "Onsite",
+        "location": "New York",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$50,000 - $70,000",
+        "job_description": "Growth Marketing Co. is seeking a creative Marketing Coordinator to join our team.",
+        "job_responsibility": "Assist in the development and implementation of marketing campaigns, and track campaign performance.",
+        "educational_requirements": "Bachelor's degree in Marketing or related field.",
+        "experiences": "1+ years of experience in marketing.",
+        "contact_information": {
+          "phone": "+1 555-9012",
+          "email": "jobs@growthmarketingco.com"
+        }
+    },
+      {
+      "id": 4,
+      "company_logo": "../src/assets/All Images/google-1-1 1.png",
+      "job_title": "Graphic Designer",
+      "company_name": "ABC Designs",
+      "remote_or_onsite": "Remote",
+      "location": "Any",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$40 - $50 per hour",
+      "job_description": "ABC Designs is seeking a creative graphic designer to join our team.",
+      "job_responsibility": "Create visual concepts to communicate ideas that inspire, inform, or captivate consumers.",
+      "educational_requirements": "Associate's or Bachelor's degree in Graphic Design or related field.",
+      "experiences": "2+ years of experience in graphic design.",
+      "contact_information": {
+        "phone": "+1 555-9012",
+        "email": "jobs@abc.com"
+    }
+},
+{
+    "id": 5,
+    "company_logo": "../src/assets/All Images/Group 10021.png",
+    "job_title": "Software Engineer",
+    "company_name": "Acme Corporation",
+    "remote_or_onsite": "Remote",
+    "location": "Any",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $150,000",
+    "job_description": "Acme Corporation is seeking a talented software engineer to join our team.",
+    "job_responsibility": "Design, develop, test and deploy software solutions that meet customer needs.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2+ years of experience in software development.",
+    "contact_information": {
+      "phone": "+1 555-1234",
+      "email": "jobs@acme.com"
+    }
+  },
+  {
+    "id": 6,
+    "company_logo": "../src/assets/All Images/tesla-9 1.png",
+    "job_title": "Marketing Manager",
+    "company_name": "XYZ Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "New York",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$80,000 - $120,000",
+    "job_description": "XYZ Inc. is seeking an experienced marketing manager to lead our team.",
+    "job_responsibility": "Develop and implement marketing strategies to increase brand awareness and drive sales.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing management.",
+    "contact_information": {
+      "phone": "+1 555-5678",
+      "email": "jobs@xyz.com"
+    }
+  }
+      
+    ]
+       
+  

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.postimg.cc/hjdwPxmd/accounts-1.png",
+    "name": "Account & Finance",
+    "jobs_available": "300 Jobs Available"
+  },
+  {
+    "id": 2,
+    "logo": "https://i.postimg.cc/nrfWszKw/business-1.png",
+    "name": "Creative Design",
+    "jobs_available": "100+ Jobs Available"
+  },
+  {
+    "id": 3,
+    "logo": "https://i.postimg.cc/C5CQbgmM/social-media-1.png",
+    "name": "Marketing & Sales",
+    "jobs_available": "150 Jobs Available"
+  },
+  {
+    "id": 4,
+    "logo": "https://i.postimg.cc/25JMDT1Y/chip-1.png",
+    "name": "Engineering Job",
+    "jobs_available": "274 Jobs Available"
+  }
+]
